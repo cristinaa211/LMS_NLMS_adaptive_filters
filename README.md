@@ -1,4 +1,4 @@
-# Adaptive_filter
+# Normalized Least Mean Squares (NLMS) and Least Mean Squares (LMS) adaptive filters
 
 This repository represents the implementation of a Normalized Least Mean Squares (NLMS) and a Least Mean Squares (LMS) adaptive filters. 
 To show the effectiveness of the filters, we generated an artificial signal, and we added gaussian noise. 
